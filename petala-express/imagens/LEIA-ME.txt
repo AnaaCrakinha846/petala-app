@@ -1,0 +1,5 @@
+Coloque aqui as fotos dos produtos (JPG, quadradas, ~800x800 px) com estes nomes:
+serum-vitamina-c.jpg, hidratante-facial.jpg, protetor-solar.jpg, base-liquida.jpg,
+batom-cremoso.jpg, shampoo-reconstrutor.jpg, mascara-capilar.jpg, oleo-capilar.jpg,
+eau-de-parfum.jpg, body-splash.jpg, esfoliante-corporal.jpg, sabonete-liquido.jpg
+Para mudar os nomes, edite o objeto IMG no script.js.
